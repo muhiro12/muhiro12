@@ -1,6 +1,6 @@
-# 職務経歴書
+# Resume
 
-2021年03月11日 現在
+2021年09月23日 現在
 
 氏名：NH
 
@@ -17,7 +17,7 @@
 |-|:-:|-|
 |Swift|3.0|Objective-Cからのコンバート可能|
 |Java（Android）|2.0||
-|Dart（Flutter）|0.5|||
+|Dart（Flutter）|1.0|||
 |Kotlin|0.5||
 |Node.js|0.5||
 |Python|0.5||
@@ -29,13 +29,11 @@
 |MySQL|0.5||
 |Redis|0.5||
 
-<div style="page-break-before:always"></div>
-
 ### OS
 
 |スキル|経験年数|備考|
 |-|:-:|-|
-|iOS|3.0|Xcode9, 10, 11対応経験<br>Carthage, CocoaPods, Swift Package Managerの使用経験<br>Realm, Core Dataの使用経験|
+|iOS|3.0|Xcode9, 10, 11, 13対応経験<br>Carthage, CocoaPods, Swift Package Managerの使用経験<br>Realm, Core Dataの使用経験|
 |Android|2.0|Android SDK 26, 27, 28対応経験|
 |Linux|0.5||
 |Raspberry Pi|0.5||
